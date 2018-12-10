@@ -6,10 +6,10 @@
         versionCode = "35200"
         android-versionCode="35200"
         version   = "3.5.2">
-    <name>UPSC Wiki</name>
+    <name>UPSC.WIKI</name>
 
     <description>
-        UPSC Wiki App
+        UPSC.WIKI App
     </description>
 
     <author href="https://www.vibidsoft.com" email="info@vibidsoft.com">
